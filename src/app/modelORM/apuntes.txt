@@ -1,0 +1,3 @@
+metodo CRYPT para guardar la pass
+HASH_EQUALS compara clave contra la guardad para el login -> si ok SAVE
+hacer un middleware y agregarlo a las rutas que requieran autenticación
